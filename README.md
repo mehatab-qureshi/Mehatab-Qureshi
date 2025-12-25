@@ -1,10 +1,11 @@
 ## Hi, I'm Mehatab ✨
 
 ##  About Me
-🧑‍💻 Aspiring Web Developer | MERN Stack Enthusiast  
-🌐 Building scalable and user-focused web applications
-📚 Strong focus on Data Structures & Algorithms for problem-solving  
-🎯 Passionate about coding, learning new tech, and creating real-world projects  
+🧑‍💻 Web Developer | MERN Stack
+
+🌐 Building scalable and user-focused web applications  
+🧠 Strong focus on Data Structures & Algorithms  
+🎯 Creating real-world projects with modern web technologies  
 📫 Reach me at: mahetabqureshi5676@gmail.com
 
 
