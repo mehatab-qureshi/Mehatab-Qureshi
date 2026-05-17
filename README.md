@@ -6,7 +6,7 @@
 🌐 Building scalable and user-focused web applications  
 🧠 Strong focus on Data Structures & Algorithms  
 🎯 Creating real-world projects with modern web technologies  
-📫 Reach me at: mahetabqureshi5676@gmail.com
+📫 Reach me at: mahetabqureshi5676@gmail.com  
 🌐 Portfolio: https://mehatab-qureshi.github.io/Portfolio/
 
 # 💻 Tech Stack:
